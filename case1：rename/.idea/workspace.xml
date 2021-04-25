@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="650d39de-39c6-4cee-9078-47e57db2e0d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Module/my0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module/my_module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/myException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/家和家具.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/烤地瓜.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypackage/my_module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypackage/my_module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/requests_basic_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/requests_cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/requests_param.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/case1：rename.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case1：rename.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batchRename.py" beforeDir="false" afterPath="$PROJECT_DIR$/batchRename.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1etcigGXdOMcy3UlQP9QjfD2pZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/requests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.my0">
+    <configuration name="多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/多态.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/继承.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/继承.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="家和家具" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/家和家具.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/继承.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="batchRename" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/batchRename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fileExcel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module/my0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myException" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/myException.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_module1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="case1：rename" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module/my_module1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my0" />
+        <item itemvalue="Python.my_module1" />
+        <item itemvalue="Python.fileExcel" />
+        <item itemvalue="Python.myException" />
+        <item itemvalue="Python.多态" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="650d39de-39c6-4cee-9078-47e57db2e0d2" name="Default Changelist" comment="" />
+      <created>1595144458265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595144458265</updated>
+      <workItem from="1595144463627" duration="3427000" />
+      <workItem from="1603260040871" duration="617000" />
+      <workItem from="1607868959179" duration="469000" />
+      <workItem from="1615432073385" duration="2000" />
+      <workItem from="1615432709181" duration="6460000" />
+      <workItem from="1615864159648" duration="33000" />
+      <workItem from="1615866054172" duration="1593000" />
+      <workItem from="1615942525199" duration="7359000" />
+      <workItem from="1615993073310" duration="2139000" />
+      <workItem from="1616118866518" duration="3989000" />
+      <workItem from="1616598392280" duration="7498000" />
+      <workItem from="1616731785001" duration="1293000" />
+      <workItem from="1616998657771" duration="3713000" />
+      <workItem from="1617009864638" duration="725000" />
+      <workItem from="1617070600860" duration="10167000" />
+      <workItem from="1617768022070" duration="1242000" />
+      <workItem from="1618362260186" duration="3000" />
+      <workItem from="1618472023931" duration="1902000" />
+      <workItem from="1619054472048" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="867" y="276" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617095542646">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="867" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.804@0.25.1440.804" timestamp="1617095542646" />
+    <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615954886110">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.813@0.25.1440.813" timestamp="1615954886110" />
+    <state x="298" y="25" key="CommitChangelistDialog2" timestamp="1617771567717">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="298" y="25" key="CommitChangelistDialog2/0.25.1440.801@0.25.1440.801" timestamp="1617771567717" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1617778649185">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1617778649185" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.25.1440.799@0.25.1440.799" timestamp="1617177862822" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1617771543409" />
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1617096353018" />
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1617095109583" />
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1616685784886" />
+    <state width="1398" height="298" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1616150076933" />
+    <state width="1398" height="298" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1616208811415" />
+    <state width="1398" height="40" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1616140248753" />
+    <state width="1398" height="349" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1616140113328" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1616139747851" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1617778649184">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1617778649184" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.25.1440.799@0.25.1440.799" timestamp="1617177862821" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1617771543407" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1617096353018" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1617095109582" />
+    <state width="1398" height="151" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1616685784885" />
+    <state width="1398" height="298" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1616150076932" />
+    <state width="1398" height="298" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1616208811414" />
+    <state width="1398" height="40" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1616140248752" />
+    <state width="1398" height="349" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1616140113327" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1616139747850" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1617778649183">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1617778649183" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.25.1440.799@0.25.1440.799" timestamp="1617177862821" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1617771543407" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1617096353017" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1617095109581" />
+    <state width="1398" height="151" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1616685784885" />
+    <state width="1398" height="298" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1616150076932" />
+    <state width="1398" height="298" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1616208811413" />
+    <state width="1398" height="40" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1616140248752" />
+    <state width="1398" height="349" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1616140113327" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1616139747849" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1617778649185">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1617778649185" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.25.1440.799@0.25.1440.799" timestamp="1617177862822" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1617771543408" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1617096353018" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1617095109582" />
+    <state width="1398" height="151" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1616685784886" />
+    <state width="1398" height="298" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1616150076933" />
+    <state width="1398" height="298" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1616208811414" />
+    <state width="1398" height="40" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1616140248753" />
+    <state width="1398" height="349" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1616140113328" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1616139747851" />
+    <state width="1398" height="251" key="GridCell.Tab.1.bottom" timestamp="1617778649187">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.25.1440.797@0.25.1440.797" timestamp="1617778649187" />
+    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.25.1440.801@0.25.1440.801" timestamp="1617771537036" />
+    <state width="1398" height="251" key="GridCell.Tab.1.center" timestamp="1617778649186">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.1.center/0.25.1440.797@0.25.1440.797" timestamp="1617778649186" />
+    <state width="1398" height="251" key="GridCell.Tab.1.center/0.25.1440.801@0.25.1440.801" timestamp="1617771537036" />
+    <state width="1398" height="251" key="GridCell.Tab.1.left" timestamp="1617778649186">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.1.left/0.25.1440.797@0.25.1440.797" timestamp="1617778649186" />
+    <state width="1398" height="251" key="GridCell.Tab.1.left/0.25.1440.801@0.25.1440.801" timestamp="1617771537035" />
+    <state width="1398" height="251" key="GridCell.Tab.1.right" timestamp="1617778649187">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.1.right/0.25.1440.797@0.25.1440.797" timestamp="1617778649187" />
+    <state width="1398" height="251" key="GridCell.Tab.1.right/0.25.1440.801@0.25.1440.801" timestamp="1617771537036" />
+    <state x="453" y="115" key="RollbackChangesDialog" timestamp="1615454523773">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="453" y="115" key="RollbackChangesDialog/0.25.1440.817@0.25.1440.817" timestamp="1615454523773" />
+    <state x="223" y="81" key="SettingsEditor" timestamp="1617002753307">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="223" y="81" key="SettingsEditor/0.25.1440.801@0.25.1440.801" timestamp="1617002753307" />
+    <state x="223" y="82" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1616149413734" />
+    <state x="223" y="82" key="SettingsEditor/0.25.1440.815@0.25.1440.815" timestamp="1616143077682" />
+    <state x="223" y="82" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1615454673700" />
+    <state x="770" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616737695228">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="770" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.805@0.25.1440.805" timestamp="1616737695228" />
+    <state x="679" y="153" width="670" height="673" key="search.everywhere.popup" timestamp="1617771503644">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="679" y="153" width="670" height="673" key="search.everywhere.popup/0.25.1440.801@0.25.1440.801" timestamp="1617771503644" />
+    <state x="679" y="154" width="670" height="676" key="search.everywhere.popup/0.25.1440.805@0.25.1440.805" timestamp="1616667588391" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/case1rename$Person.coverage" NAME="Person Coverage Results" MODIFIED="1616668326146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/case1rename$fileExcel.coverage" NAME="fileExcel Coverage Results" MODIFIED="1617087204582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case1rename$.coverage" NAME="my0 Coverage Results" MODIFIED="1617096352990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module" />
+    <SUITE FILE_PATH="coverage/case1rename$requests_param.coverage" NAME="requests_param Coverage Results" MODIFIED="1615948572723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/case1rename$requests_cookies.coverage" NAME="requests_cookies Coverage Results" MODIFIED="1615954888059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/case1rename$my0.coverage" NAME="my0 Coverage Results" MODIFIED="1617771543398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module" />
+    <SUITE FILE_PATH="coverage/case1rename$myException.coverage" NAME="myException Coverage Results" MODIFIED="1617076680766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/case1rename$requests_basic_use.coverage" NAME="requests_basic_use Coverage Results" MODIFIED="1615948622080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/case1rename$my_module1.coverage" NAME="my_module1 Coverage Results" MODIFIED="1617771537022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module" />
+    <SUITE FILE_PATH="coverage/case1rename$batchRename.coverage" NAME="batchRename Coverage Results" MODIFIED="1616737683525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
